@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro repositório do curso em video
+# Vida nova!!
+ Repositório criado quando eu me tornei um Deus
